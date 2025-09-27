@@ -22,8 +22,3 @@ It’s a mix of study prep, troubleshooting steps, and tips I’ve learned along
 ✔️ Share resources with others learning IT support  
 
 ---
-
-## 📫 Connect With Me  
-
-- 🌐 Website: (https://lifeguide.ph)  
-- 💼 LinkedIn: (https://www.linkedin.com/in/charlote-araneta/)  
